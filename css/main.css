@@ -1,0 +1,9 @@
+canvas {
+    width: inherit;
+    height: inherit;
+}
+
+#render {
+    width: 800;
+    height: 600;
+}
